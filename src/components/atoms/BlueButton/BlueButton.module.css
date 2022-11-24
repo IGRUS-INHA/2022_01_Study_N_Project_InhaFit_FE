@@ -1,0 +1,12 @@
+.blueBtn{
+    width: 90%;
+    height: 3em;
+    background-color: #1C85E6;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 0.5em;
+    text-align: center;
+    cursor: pointer;
+}
