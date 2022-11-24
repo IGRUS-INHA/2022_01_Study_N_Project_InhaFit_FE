@@ -14,7 +14,7 @@ import Notice from "./components/pages/notice/Notice";
 import Qna from "./components/pages/qna/Qna";
 import Search from "./components/pages/search/Search";
 import SignIn from "./components/pages/signIn/SignIn";
-import SignUp from "./components/pages/signUp/SignUp";
+import SignUp from "./components/pages/signUp/Index";
 import Workout from "./components/pages/workout/Workout";
 
 function App() {
